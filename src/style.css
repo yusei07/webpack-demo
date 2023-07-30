@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'lemonMilk';
+  src: url('./LEMONMILK-Medium.otf');
+  font-weight: 600;
+  font-style: normal;
+}
+
+.hello {
+  color: lavender;
+  font-size: 4rem;
+  font-family: 'lemonMilk';
+  background: url(./belle.jpeg);
+}
